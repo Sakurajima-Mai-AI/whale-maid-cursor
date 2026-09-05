@@ -1,0 +1,12 @@
+{
+  "note": "multi-state build. Per-state sizes live in assets/states-manifest.json.",
+  "reference": {
+    "maxSize": 48,
+    "width": 45,
+    "height": 48
+  },
+  "idleHotspotRef": {
+    "x": 19,
+    "y": 47
+  }
+}

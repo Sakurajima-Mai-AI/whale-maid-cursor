@@ -1,0 +1,11 @@
+# dependencies / build output
+node_modules/
+
+# scratch
+*.tmp
+.tmpdir/
+
+# logs
+*.log
+# session vision router artifacts
+.dsh-vision-router/

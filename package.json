@@ -1,0 +1,36 @@
+{
+  "name": "whale-maid-cursor",
+  "version": "1.0.0",
+  "description": "Blue-whale girl (DeepSeek-style) custom cursor & buddy for DeepSeek Harness: three-state cursor image (work/keyboard/leisure) synced with a draggable talking companion bubble, transparent-PNG pipeline, settings panel control.",
+  "license": "MIT",
+  "author": "jy36zyc <3306156195@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sakurajima-Mai-AI/whale-maid-cursor.git"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "build": "node scripts/build-cursor.js"
+  },
+  "files": [
+    "README.md",
+    "LICENSE",
+    "assets/",
+    "plugin/",
+    "scripts/"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "cordis-plugin",
+    "custom-cursor",
+    "cursor",
+    "mascot",
+    "buddy",
+    "whale",
+    "maid",
+    "anime",
+    "png-cursor"
+  ]
+}

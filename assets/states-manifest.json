@@ -1,0 +1,120 @@
+{
+  "states": {
+    "idle": {
+      "source": "D:\\33061\\Documents\\dsh\\mouse cursor\\assets\\states\\idle\\source.png",
+      "sizes": [
+        {
+          "size": 32,
+          "file": "cursor-32.png",
+          "width": 30,
+          "height": 32
+        },
+        {
+          "size": 48,
+          "file": "cursor-48.png",
+          "width": 45,
+          "height": 48
+        },
+        {
+          "size": 64,
+          "file": "cursor-64.png",
+          "width": 60,
+          "height": 64
+        },
+        {
+          "size": 96,
+          "file": "cursor-96.png",
+          "width": 90,
+          "height": 96
+        }
+      ]
+    },
+    "typing": {
+      "source": "D:\\33061\\Documents\\dsh\\mouse cursor\\assets\\states\\typing\\source.png",
+      "sizes": [
+        {
+          "size": 32,
+          "file": "cursor-32.png",
+          "width": 31,
+          "height": 32
+        },
+        {
+          "size": 48,
+          "file": "cursor-48.png",
+          "width": 46,
+          "height": 48
+        },
+        {
+          "size": 64,
+          "file": "cursor-64.png",
+          "width": 62,
+          "height": 64
+        },
+        {
+          "size": 96,
+          "file": "cursor-96.png",
+          "width": 92,
+          "height": 96
+        }
+      ]
+    },
+    "busy": {
+      "source": "D:\\33061\\Documents\\dsh\\mouse cursor\\assets\\states\\busy\\source.png",
+      "sizes": [
+        {
+          "size": 32,
+          "file": "cursor-32.png",
+          "width": 31,
+          "height": 32
+        },
+        {
+          "size": 48,
+          "file": "cursor-48.png",
+          "width": 46,
+          "height": 48
+        },
+        {
+          "size": 64,
+          "file": "cursor-64.png",
+          "width": 61,
+          "height": 64
+        },
+        {
+          "size": 96,
+          "file": "cursor-96.png",
+          "width": 92,
+          "height": 96
+        }
+      ]
+    }
+  },
+  "buddy": {
+    "states": {
+      "idle": {
+        "file": "idle.png",
+        "width": 449,
+        "height": 480
+      },
+      "typing": {
+        "file": "typing.png",
+        "width": 462,
+        "height": 480
+      },
+      "busy": {
+        "file": "busy.png",
+        "width": 460,
+        "height": 480
+      },
+      "angry": {
+        "file": "angry.png",
+        "width": 447,
+        "height": 480
+      },
+      "shy": {
+        "file": "shy.png",
+        "width": 447,
+        "height": 480
+      }
+    }
+  }
+}
